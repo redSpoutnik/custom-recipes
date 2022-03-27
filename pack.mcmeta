@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "Custom Recipes Pack"
+    "description": [{"text":"Custom Recipes Pack","color":"orange"}]
   }
 }
